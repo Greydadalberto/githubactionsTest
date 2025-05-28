@@ -1,13 +1,16 @@
 {
-  "name": "githubactionsTest",
+  "name": "githubactionstest",
   "version": "1.0.0",
   "description": "A sample Node.js project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {},
   "devDependencies": {},
-  "author": "",
-  "license": "ISC"
+  "author": "Derrick Darku",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "github.com/Greydadalberto/githubactionsTest"
+  }
 }
